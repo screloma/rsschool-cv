@@ -1,0 +1,29 @@
+.wrapper {
+  height: 100vh;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.logo-img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+}
+
+.title {
+}
+
+section {
+  text-align: left;
+}
+
+.motivation {
+  text-align: left;
+}
+
+body {
+  font-family: 'Roboto';
+  text-align: center;
+  margin: 0;
+}
